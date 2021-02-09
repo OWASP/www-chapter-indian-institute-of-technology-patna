@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP IIT Patna - Student Chapter
+title: OWASP Indian Institute of Technology - Student Chapter
 tags: iitp
 region: Asia
 country: India

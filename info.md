@@ -1,7 +1,7 @@
-### Indian Institute of Technology Patna Information
-* Provide Group Information
+### Chapter Information
 
 ### Social Links
-* [Meetup](#)
 
+<!-- * [Meetup](#) -->
 
+* [Discord](https://discord.gg/J3WUmK3wPK)

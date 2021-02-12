@@ -8,3 +8,5 @@ tags: iitp
 ---
 
 ## Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}

@@ -3,8 +3,10 @@
 layout: col-sidebar
 title: OWASP Indian Institute of Technology Patna - Student Chapter
 tags: iitp
+meetup-group: meetup-group-owaspiitp
 region: Asia
 country: India
+postal-code: 801106
 
 ---
 
@@ -14,7 +16,7 @@ This is the homepage of the OWASP Student Chapter of Indian Insitute of Technolo
 
 ## Participation
 
-All events conducted by OWASP IIT Patna are free and open to anyone interested. To participate in our upcoming events, please refer to [Upcoming Events](#div-upcoming). An archive of our past events is available [here](#div-past).
+All events conducted by OWASP IIT Patna are free and open to anyone interested. To participate in our upcoming events, please refer to <a href="/www-chapter-indian-institute-of-technology-patna#div-upcoming" onclick="location.hash='div-upcoming'; location.reload();">Upcoming Events</a>. An archive of our past events is available <a href="/www-chapter-indian-institute-of-technology-patna#div-past" onclick="location.hash='div-past'; location.reload();">here</a>.
 
 ## Call for Speakers
 
@@ -22,6 +24,6 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 
 ## Community
 
-You can join our [Discord server](https://discord.gg/J3WUmK3wPK) and our channel on [OWASP's Slack](https://owasp.slack.com/) for discussions relevant to application security and the working of this chapter.
+You can join our [Meetup group](https://www.meetup.com/meetup-group-owaspiitp/) to get updates about our upcoming events. You can also join our [Discord server](https://discord.gg/J3WUmK3wPK) and our channel on [OWASP's Slack](https://owasp.slack.com/) for discussions relevant to application security and the working of this chapter.
 
 We also encourage you to [become a member](https://owasp.org/membership/) or consider a [donation](https://owasp.org/donate/) to support OWASP's ongoing work.

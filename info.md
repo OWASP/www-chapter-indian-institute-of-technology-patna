@@ -2,6 +2,6 @@
 
 ### Social Links
 
-<!-- * [Meetup](#) -->
+* [Meetup](https://www.meetup.com/meetup-group­-owaspiitp/)
 
 * [Discord](https://discord.gg/J3WUmK3wPK)

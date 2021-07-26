@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Indian Institute of Technology Patna - Student Chapter
+title: OWASP IIT of Patna - Student Chapter
 tags: iitp
 meetup-group: meetup-group-owaspiitp
 region: Asia

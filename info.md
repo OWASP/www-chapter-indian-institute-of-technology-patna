@@ -2,6 +2,6 @@
 
 ### Social Links
 
-* [Meetup](https://www.meetup.com/owasp-iit-of-patna-student-chapter/)
+* [Meetup](https://www.meetup.com/meetup-group-owaspiitp/
 
 * [Discord](https://discord.gg/J3WUmK3wPK)

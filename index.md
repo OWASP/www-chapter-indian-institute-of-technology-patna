@@ -10,6 +10,8 @@ postal-code: 801106
 
 ---
 
+<img src="assets/images/white_logo.png" />
+
 ## Welcome
 
 IIT Patna's student chapter of OWASP welcomes you to its official page. This chapter is run by students of Indian Institute of Technology Patna. We are a group of students who are interested in learning and sharing knowledge about application security. We conduct regular meetups and workshops on application security. We also organize CTFs, awareness camps and other events to promote application security in the community. Irrespective of your background, you are welcome to join us and learn about application security.

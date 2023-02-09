@@ -5,7 +5,7 @@ tab: true
 layout: null
 order: 1
 tags: iitp
-meetup-group: your-meetup-group
+meetup-group: meetup-group-mrogmpnt
 ---
 
 ## Upcoming Events

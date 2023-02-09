@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP IIT Patna - Student Chapter
 tags: iitp
-meetup-group: meetup-group-owaspiitp
+meetup-group: meetup-group-mrogmpnt
 region: Asia
 country: India
 postal-code: 801106

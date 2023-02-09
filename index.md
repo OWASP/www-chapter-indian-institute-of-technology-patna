@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP IIT Patna - Student Chapter
 tags: iitp
-meetup-group: meetup-group-owaspiitp
+meetup-group: 
 region: Asia
 country: India
 postal-code: 801106
@@ -27,5 +27,10 @@ Call For Speakers is open. If you would like to present a talk on Application Se
 ## Community
 
 You can join our [Meetup group](https://www.meetup.com/meetup-group-owaspiitp/) to get updates about our upcoming events. You can also join our [Discord server](https://discord.gg/J3WUmK3wPK) and our channel on [OWASP's Slack](https://owasp.slack.com/) for discussions relevant to application security and the working of this chapter.
+
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
 
 We also encourage you to [become a member](https://owasp.org/membership/) or consider a [donation](https://owasp.org/donate/) to support OWASP's ongoing work.

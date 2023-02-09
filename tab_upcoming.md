@@ -11,7 +11,6 @@ meetup-group: your-meetup-group
 ## Upcoming Events
 
 {% include chapter_events.html group=page.meetup-group %}
-#
 # NMAP : Scanning Network Like a Boss
 Join cybersecurity expert Krishnan S N as he takes you on a thrilling journey into the world of network scanning. Discover the power of Nmap and how it can revolutionize the way you approach network security. Learn from the best as Krishnan shares his knowledge, tips, and tricks to help you become a Nmap master. Whether you are a seasoned network professional or a beginner, this session is guaranteed to spark your curiosity and leave you eager to learn more. So, come prepared to have your mind blown and get ready to scan networks like a boss with Nmap.
 

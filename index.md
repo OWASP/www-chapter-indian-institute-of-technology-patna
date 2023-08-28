@@ -10,7 +10,7 @@ postal-code: 801106
 
 ---
 
-<img src="assets/images/white_logo.png" />
+<img src="assets/images/logo.jpeg" />
 
 ## Welcome
 
@@ -22,7 +22,7 @@ All events conducted by OWASP IIT Patna are free and open to anyone interested. 
 
 ## Call for Speakers
 
-Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP IIT Patna Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders (refer sidebar) via e-mail.
+Call For Speakers is open. If you would like to present a talk on Application Security at future OWASP IIT Patna Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders (refer sidebar) via e-mail ( owasp@iitp.ac.in ).
 
 ## Community
 

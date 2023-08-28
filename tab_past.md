@@ -16,9 +16,9 @@ Discover the game-changing potential of Security Orchestration, Automation, and 
 ```
 As a Security Manager at Palo Alto Networks based in Singapore, I specialize in security automation and lead a global team of cybersecurity consultants and a security evangelist. My experience includes working for renowned cybersecurity companies such as RSA Security and Cisco, where I held positions as a penetration tester and security developer. Outside of my professional role, I am deeply passionate about giving back to the security community through speaking engagements at various events and conferences across Asia and Africa, as well as mentoring programs for students, to enter the cyber industry
 ```
-<img src="assets/images/image3.png" style="width=500px"/>
+<img src="assets/images/image3.png" style="width:40vw"/>
 
-#
+--- 
 ### Cybersecurity 101 - How to break into the cybersecurity industry as a beginner?
 This talk will provide an introduction to cybersecurity for beginners and offer guidance on how to break into the cyberindustry. The speaker will provide practical advice on how to gain relevant experience, including resources for learning and developing technical skills, as well as tips for building a professional network and finding job opportunities. The talk will also touch on the importance of staying current with industry trends and regulations, and the need for ethical behavior and responsibility in the cybersecurity profession.
 
@@ -28,19 +28,19 @@ This talk will provide an introduction to cybersecurity for beginners and offer 
 ```
 As a Security Manager at Palo Alto Networks based in Singapore, I specialize in security automation and lead a global team of cybersecurity consultants and a security evangelist. My experience includes working for renowned cybersecurity companies such as RSA Security and Cisco, where I held positions as a penetration tester and security developer. Outside of my professional role, I am deeply passionate about giving back to the security community through speaking engagements at various events and conferences across Asia and Africa, as well as mentoring programs for students, to enter the cyber industry
 ```
-<img src="assets/images/image2.jpeg" style="width=500px"/>
+<img src="assets/images/image2.jpeg" style="width:40vw"/>
 
 
-#
+---
 ### NMAP : Scanning Network Like a Boss
 Join cybersecurity expert Krishnan S N as he takes you on a thrilling journey into the world of network scanning. Discover the power of Nmap and how it can revolutionize the way you approach network security. Learn from the best as Krishnan shares his knowledge, tips, and tricks to help you become a Nmap master. Whether you are a seasoned network professional or a beginner, this session is guaranteed to spark your curiosity and leave you eager to learn more. So, come prepared to have your mind blown and get ready to scan networks like a boss with Nmap.
 
 Join us on 15th Feb at [teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTJkMDk2NjktNWU4Yi00MWE4LWE0NmMtMTcwYjFkNTlmYmY4%40thread.v2/0?context=%7b%22Tid%22%3a%22a57f7d92-038e-4d4c-8265-7cd2beb33b34%22%2c%22Oid%22%3a%229b130259-1893-4364-bf5d-bd96d925ad0b%22%7d)
 
-<img src="assets/images/p3.png" style="width=500px" />
+<img src="assets/images/p3.png" style="width:40vw" />
 
 
-#
+---
 ### Intro to CTFS
 
 **Date:** 20th June 2021

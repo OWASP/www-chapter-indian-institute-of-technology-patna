@@ -13,6 +13,7 @@ Discover the game-changing potential of Security Orchestration, Automation, and 
 
 - [Recording](https://cciitpatna-my.sharepoint.com/:v:/g/personal/owasp_iitp_ac_in/ES7z9EwzNDtJlTkp8FQXS1EBEHZBnWxWThBW4ZzxZmivCA)
 - Speaker : Prashasth Baliga
+- Certificate ID: `CM25082023`
 ```
 As a Security Manager at Palo Alto Networks based in Singapore, I specialize in security automation and lead a global team of cybersecurity consultants and a security evangelist. My experience includes working for renowned cybersecurity companies such as RSA Security and Cisco, where I held positions as a penetration tester and security developer. Outside of my professional role, I am deeply passionate about giving back to the security community through speaking engagements at various events and conferences across Asia and Africa, as well as mentoring programs for students, to enter the cyber industry
 ```

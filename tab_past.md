@@ -8,6 +8,18 @@ tags: iitp
 ---
 
 ## Past Events
+
+### Industry based Security Testing
+The cybersecurity session provides a comprehensive overview of industry security testing, emphasizing key principles, testing types, regulatory compliance, and industry-specific challenges. It delves into the security testing process, highlighting automation's benefits and showcasing real-world examples for practical insights. The session encourages audience interaction through a Q&A session and concludes by summarizing the key takeaways in ensuring robust cybersecurity measures. Overall, it equips participants with essential knowledge and tools to address evolving cybersecurity threats effectively.
+
+- Speaker : Tapan Kr. Jha
+- Certificate ID: `CM17022024`
+- [Recording](https://cciitpatna-my.sharepoint.com/:v:/g/personal/owasp_iitp_ac_in/EV9BoMRUWXZAoUj7OUoRAd8Bk6ca2rke1bglOmYQeWvuAA?e=tAiHiH)
+```
+With the expertise of 13 years in the field of ethical hacking, network security, vulnerability assessment & penetration testing, computer forensic, server security, I have provided professional services & training. In more than 30 Indian, US MNC’s. for being one of the best in field, I have been recognized under India’s Top 10 cyber forensic solution provide 2019 & 2nd Rank on India’s Top 10 VAPT Solution Provider by Silicon India Magazine.
+```
+<img src="assets/images/Feb17.png" style="width:30vw"/>
+
 ### From Manual to Machine: The Evolution of Security Automation (SOAR) in SOC
 Discover the game-changing potential of Security Orchestration, Automation, and Response (SOAR) in revolutionizing cybersecurity. This talk dives into how SOAR turbocharges incident response by automating tasks, coordinating tools, and amplifying team efficiency. We will explore real-world use cases, benefits, and best practices for integrating SOAR seamlessly. By the end, you'll grasp how SOAR empowers organizations to combat threats proactively, minimize manual effort, and fortify their security posture.
 

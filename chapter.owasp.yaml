@@ -1,0 +1,31 @@
+leaders:
+  - name: Dr. Somanath Tripathy
+    email: somanath.tripathy@owasp.org
+  - name: Rupak Biswas
+    email: rupak.biswas@owasp.org
+    github: RupakBiswas-2304
+  - name: Tejas Tupke
+    email: tejas.tupke@owasp.org
+    github: Tejax-v2
+  - name: Swapnil Srivastava
+    email: swapnil.srivastava@owasp.org
+    github: Swapnil-Srivastava273
+location:
+  country: India
+  country_code: IN
+  region: Bihar
+  city: Patna
+  postal_code: '801106'
+  latitude: 25.6093239
+  longitude: 85.1235252
+meetup_group: meetup-group-mrogmpnt
+name: OWASP IIT Patna - Student Chapter
+repositories:
+  - name: www-chapter-indian-institute-of-technology-patna
+    url: https://github.com/OWASP/www-chapter-indian-institute-of-technology-patna
+    description: OWASP Foundation Web Repository
+tags:
+  - iitp
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-indian-institute-of-technology-patna
